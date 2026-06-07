@@ -129,11 +129,11 @@ const guilherme: Developer = {
 
 | &nbsp; | Projeto | Descrição | Stack |
 |:------:|---------|-----------|-------|
-| 🏦 | **FAMTECHCENTRAL BMG** | Sistema central de integração com Banco BMG — gestão de operações, fluxos de crédito consignado e margem | `TypeScript` `Node.js` `PostgreSQL` |
+| 🏦 | **FAMTECHCENTRAL** | Sistema central de integração bancária — gestão de operações, fluxos de crédito consignado e margem | `TypeScript` `Node.js` `PostgreSQL` |
 | 💰 | **FINANCE CTRL** | Plataforma interna de controle financeiro com dashboards analíticos, relatórios automatizados e alertas | `TypeScript` `Node.js` `MongoDB` |
-| 🤖 | **Robô BMG Unitário** | Automação de consultas de margem consignada integrada diretamente aos sistemas do Banco BMG | `Python` `Selenium` |
-| 🤖 | **Robô Bahia Unitário** | Automação de processamento de margem para o Banco do Estado da Bahia | `Python` `Selenium` |
-| 🤖 | **Robô Santander RJ** | Consulta automatizada de margem junto ao Santander — unidade Rio de Janeiro | `Python` `Selenium` |
+| 🤖 | **Robô Consignado I** | Automação de consultas de margem consignada integrada a sistemas bancários parceiros | `Python` `Selenium` |
+| 🤖 | **Robô Consignado II** | Automação de processamento de margem para instituição financeira parceira | `Python` `Selenium` |
+| 🤖 | **Robô Consignado III** | Consulta automatizada de margem junto a banco parceiro — unidade regional | `Python` `Selenium` |
 | 📋 | **CONSULTA CDX** | Sistema de consulta ao cadastro CDX integrado ao ecossistema Famtech | `HTML` `JavaScript` |
 
 </div>
@@ -144,8 +144,8 @@ const guilherme: Developer = {
 
 <div align="center">
 
-<img height="195" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Zin&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&rank_icon=github&custom_title=Estatísticas+de+Guilherme" />
-<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Zin&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6&custom_title=Linguagens+Mais+Usadas" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Guilherme-Zin&theme=github_dark" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Guilherme-Zin&theme=github_dark" />
 
 </div>
 
@@ -158,7 +158,7 @@ const guilherme: Developer = {
 ### 🏆 Troféus
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Guilherme-Zin&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Guilherme-Zin&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=4" />
 </div>
 
 ---
